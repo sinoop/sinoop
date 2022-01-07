@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sinoop
-- 👀 I’m interested in becoming a better coder
-- 🌱 I’m currently learning Python
+- 📍 NJ
+- 👨🏼‍💻 Scala / Python / SQL Dev
 
 <!---
 sinoop/sinoop is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
